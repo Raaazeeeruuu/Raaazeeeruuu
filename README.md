@@ -10,5 +10,6 @@ You can click the Preview link to take a look at your changes.
 - Proficient in Java and Python.
 - Experienced in C, C++, and NET.
 - Need industry experience.
+- Down to collab if you need someone to do stuff for you.
 - If all else fails, I might shift courses.
 - What the f*ck is a pointer?
