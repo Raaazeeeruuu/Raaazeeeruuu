@@ -4,12 +4,9 @@ Raaazeeeruuu/Raaazeeeruuu is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-- You can call me Raz.
-- Am 19.
-- A Computer Engineer Student
-- Proficient in Java and Python.
-- Experienced in C, C++, and NET.
-- Need industry experience.
-- Down to collab if you need someone to do stuff for you.
-- If all else fails, I might shift courses.
-- What the f*ck is a pointer?
+
+- Raz. 20
+- Undergrad in Computer Engineering
+- Java and Python are my main langauges
+- Experienced in C, .NET
+- Down to collab
